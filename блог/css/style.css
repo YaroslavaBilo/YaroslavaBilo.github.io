@@ -1,0 +1,63 @@
+/* Header, footer */
+header,footer{
+	background-color:Violet;
+}
+    h2{
+		background-color:red;
+   }
+     h3{
+	color:black;
+	 }
+	 main{
+		color:purple;
+		background-color:gold;
+	 }
+	 /*menu*/
+	 #nav{
+         padding: 10px 0 5px 0;
+         text-align: center; 
+         list-style-type: none;
+         font-family: Avro,serif;
+         font-size: 22px;
+         text-transform: uppercase;
+     }
+     #nav li{
+     	display: inline;
+     	margin-left: 10px;
+     }
+     #nav a{
+     	text-decoration: none;
+     	color: gold;
+     	padding: 5px 10px;
+     	font-weight: bold;
+     	display: inline-block;
+     }
+     #nav a:hover{
+     	background: gold;
+     	color: white;
+     	border-radius: 20px;
+     }
+     h1{
+        color: pink;
+        text-align: center;
+     }
+     h2{
+        color: blue;
+        text-align: center;
+     }
+       }
+     h3{
+        color: pink;
+        text-align: center;
+     }
+     .carousel a:hover {
+    background: #9ef3ff;
+
+     }
+     .carousel{
+        border: 2px solid #fff0d3;
+
+     }
+     
+
+

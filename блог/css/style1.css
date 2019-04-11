@@ -1,0 +1,41 @@
+/* Header, footer */
+
+header, footer {
+  background-color: #38b6ff;
+}
+ h1{
+     color:pink;
+     background-color:blue;
+     font-style:fantasy;	 
+ }
+ .p1{
+	 background:linear-gradient(45deg,gold,red,blue);
+	 padding:10xp;
+ }
+ 
+ .p2{
+	 background:linear-gradient(45deg,gold,red,blue);
+	 padding:10xp;
+ }
+ .p3{
+	 background:linear-gradient(45deg,gold,red,blue);
+	 padding:10px;
+ }
+  .k1{
+	 width:750px;
+	 border:4xp double violet;
+	 border-radius:20xp 20xp 20xp 20xp;
+  }
+   .k2{
+	 width:750px;
+	 border:4xp double violet;
+	 border-radius:20xp 20xp 20xp 20xp;
+   }
+    .k3{
+	 width:750px;
+	 border:4xp double violet;
+	 border-radius:20xp 20xp 20xp 20xp;
+	}
+	body{
+		background-color:violet;
+	}
